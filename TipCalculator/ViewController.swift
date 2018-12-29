@@ -33,7 +33,7 @@ class ViewController: UIViewController {
     @IBAction func caclulateTip(_ sender: Any) {
         
         //array
-        let tipPercentages = [0.18,0.2,025]
+        let tipPercentages = [0.18,0.2,0.25]
         
         
         //variables
